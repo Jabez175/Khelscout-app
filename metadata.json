@@ -1,0 +1,7 @@
+{
+  "name": "Khelscout",
+  "description": "An AI-Powered platform for democratizing sports talent assessment, helping unlock hidden talent across India.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

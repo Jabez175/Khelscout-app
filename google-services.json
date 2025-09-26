@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "970912370777",
+    "project_id": "khelscout",
+    "storage_bucket": "khelscout.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970912370777:android:b88cd3e5fe7ee1adbc2148",
+        "android_client_info": {
+          "package_name": "khelscout.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Wg7agvgA3_2JrmLFRZbUgxH86um1TMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Khelscout",
+  "description": "A one-stop sports ecosystem that blends AI-driven training, performance tracking, mentorship validation, and event access — all optimized for rural-first and low-internet conditions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
